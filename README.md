@@ -1,6 +1,8 @@
 # 🏠 House Price Prediction Using Machine Learning
 
-# Live Link -> https://project-3---house-price-prediction-vksyakkeyp5l64lzpuxbvc.streamlit.app/
+## 🚀 Live Demo
+
+🌐 **Live App:** https://project-3---house-price-prediction-vksyakkeyp5l64lzpuxbvc.streamlit.app/
 
 ## 📖 Overview
 

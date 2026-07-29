@@ -146,4 +146,6 @@ B.Tech (Artificial Intelligence & Machine Learning)
 
 ## 📄 License
 
-This project is developed for educational and learning purposes.
+This project is licensed under the **MIT License**.
+
+See the [LICENSE](LICENSE) file for more details.
